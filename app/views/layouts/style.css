@@ -1,0 +1,15 @@
+.wrapper{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+.main_chat{
+  width: calc(100vw - 300px);
+  background-color: #ffffff;
+}
+
+.side_bar{
+  width:300px;
+  background-color: #253141;
+}
