@@ -39,7 +39,7 @@ Things you may want to cover:
 - has_many :room, through: room_users
 - has_many :messages
 
-## room　テーブル
+## room テーブル
 
 | Column   | Type     | Options     |
 | -------- | -------- | ----------  |
